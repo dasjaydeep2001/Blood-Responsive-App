@@ -1,8 +1,8 @@
 
-# BLOOD-BANK-APP
+# BLOOD-RESPONSIVE-APP
 
 ## How to use?
-> For IOS APP - https://github.com/abdulbasitha/BLOOD-BANK-APP-IOS
+> For IOS APP - https://github.com/jaydeep/BLOOD-BANK-APP-IOS
 1. Download or clone this repo.
 
 2. Open it in Android Studio.
@@ -47,10 +47,10 @@ Build >> Build Apk(s)
 ## Support
 
 In case of any queries or issues, please contact us at:
-[info@techzia.in](mailto:info@techzia.in)
+jaydeep2001das@gmail.com
 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-### Happy Coding 💖
+
