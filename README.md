@@ -19,7 +19,7 @@ Build >> Build Apk(s)
     Q) How to get the SHA-1 fingerprint certificate in Android Studio for debug mode? <br>
     Ans) <a href="https://stackoverflow.com/questions/27609442/how-to-get-the-sha-1-fingerprint-certificate-in-android-studio-for-debug-mode(https://stackoverflow.com/questions/27609442/how-to-get-the-sha-1-fingerprint-certificate-in-android-studio-for-debug-mode)"> SHA-1 fingerprint certificate</a>
   
-6. Select the `API` folder,  set it up in a webserver or localhost, create a database and import `blood_bank_app.sql` into Phpmyadmin.
+6. Select the `API` folder,  set it up in a webserver or localhost, create a database and import `blood_responsive_app.sql` into Phpmyadmin.
 
 7. Set String `path = "your-url-paste-here" (eg:http://localhost/bloodbank/) or <your-api-files-directory-in-webserver>`  in `JsonAct.java` 
 
